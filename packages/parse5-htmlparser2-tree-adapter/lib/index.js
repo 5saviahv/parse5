@@ -8,7 +8,8 @@ const nodeTypes = {
     element: 1,
     text: 3,
     cdata: 4,
-    comment: 8
+    comment: 8,
+    root: 9
 };
 
 const nodePropertyShorthands = {
